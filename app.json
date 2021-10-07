@@ -5,11 +5,12 @@
     "iconFile": "icon.png",
     "author": {
         "name": "murtaza98",
-        "homepage": "https://github.com",
-        "support": "https://github.com"
+        "homepage": "https://github.com/murtaza98",
+        "support": "https://github.com/murtaza98"
     },
     "name": "File upload API - Omnichannel",
     "nameSlug": "file-upload-api-omnichannel",
     "classFile": "FileUploadApiOmnichannelApp.ts",
-    "description": "File upload API - Omnichannel"
+    "description": "File upload API - Omnichannel",
+    "implements": []
 }
