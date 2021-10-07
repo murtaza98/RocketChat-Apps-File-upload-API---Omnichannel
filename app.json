@@ -1,0 +1,15 @@
+{
+    "id": "68545add-77cc-4a16-8491-ded3a1457ac1",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "murtaza98",
+        "homepage": "https://github.com",
+        "support": "https://github.com"
+    },
+    "name": "File upload API - Omnichannel",
+    "nameSlug": "file-upload-api-omnichannel",
+    "classFile": "FileUploadApiOmnichannelApp.ts",
+    "description": "File upload API - Omnichannel"
+}
